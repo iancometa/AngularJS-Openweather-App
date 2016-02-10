@@ -1,2 +1,3 @@
+// app.js
 var weatherApp = angular.module('weatherApp', ['ngRoute']);
 
